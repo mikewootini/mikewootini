@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mikewootini please just call me "woot" 
-- 👀 I’m interested in DevOps but LED programming for fun
+- 👀 I’m interested in DevOps (and LED programming for fun)
 - 📫 How to reach me ... https://www.instagram.com/playawootwoot/ 
 
 Linkedin is here - https://www.linkedin.com/in/wootini/
